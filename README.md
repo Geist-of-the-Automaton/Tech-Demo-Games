@@ -1,6 +1,6 @@
 # Tech-Demo-Games
-These games are testbeds for various features and ideas.
-
+These games are testbeds for various features and ideas.                                                                                                                                               
+                                                                                                                 
 In particular:
 - Side Scroller, created to demo particle simulations, hair and rope physics, and procedural animations by way of inverse kinematics.
 [Video of Side Scroller](https://youtu.be/vvD79In-BT0)
