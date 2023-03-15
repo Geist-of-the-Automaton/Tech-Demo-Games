@@ -10,3 +10,4 @@ In particular:
 
 ![Side Scroller](https://user-images.githubusercontent.com/44931507/223041826-fbd0fe9d-98c1-45ca-9c37-9ed4934e984c.png)
 ![Stellar Watch](https://user-images.githubusercontent.com/44931507/223041407-5b286bd6-b2e3-4d90-8923-1f0afca3a6de.png)
+<!---[Resume.pdf](https://github.com/Geist-of-the-Automaton/Tech-Demo-Games/files/10976943/Resume.pdf)--->
